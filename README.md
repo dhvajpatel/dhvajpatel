@@ -175,7 +175,7 @@ AI agent that turns plain-English billing requests into Tally-compatible XML/JSO
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-dhvajpatel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhvajpatel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhvaj-a-patel)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdhvaj58@gmail.com)
 
 <br/>
